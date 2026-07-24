@@ -99,4 +99,20 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/agnavya21/DSA_Daily/tree/main/0200-number-of-islands/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0402-remove-k-digits](https://github.com/agnavya21/DSA_Daily/tree/main/0402-remove-k-digits/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0402-remove-k-digits](https://github.com/agnavya21/DSA_Daily/tree/main/0402-remove-k-digits/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0402-remove-k-digits](https://github.com/agnavya21/DSA_Daily/tree/main/0402-remove-k-digits/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0402-remove-k-digits](https://github.com/agnavya21/DSA_Daily/tree/main/0402-remove-k-digits/) | Medium |
 <!---LeetCode Topics End-->
