@@ -6,12 +6,13 @@
 
 | Total Problems | Topics |
 |---|---|
-| 5 | 7 |
+| 6 | 8 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
+- [Uncategorized](#uncategorized) (1)
 - [brute force](#brute-force) (1)
 - [dp](#dp) (1)
 - [games](#games) (2)
@@ -21,6 +22,12 @@
 - [strings](#strings) (1)
 
 ---
+
+### Uncategorized
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2250A | [Threshold Movement](https://codeforces.com/contest/2250/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/agnavya21/DSA_Daily/blob/HEAD/2250/A%20-%20Threshold%20Movement/solution.cpp) |
 
 ### brute force
 
