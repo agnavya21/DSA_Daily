@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 7 | 8 |
+| 8 | 8 |
 
 ---
 
@@ -19,7 +19,7 @@
 - [greedy](#greedy) (4)
 - [implementation](#implementation) (1)
 - [math](#math) (4)
-- [strings](#strings) (1)
+- [strings](#strings) (2)
 
 ---
 
@@ -77,6 +77,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 71A | [Way Too Long Words](https://codeforces.com/contest/71/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/agnavya21/DSA_Daily/blob/HEAD/71/A%20-%20Way%20Too%20Long%20Words/solution.cpp) |
 | 2244A | [Iskander and Drawings](https://codeforces.com/contest/2244/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/agnavya21/DSA_Daily/blob/HEAD/2244/A%20-%20Iskander%20and%20Drawings/solution.cpp) |
 
 ---
