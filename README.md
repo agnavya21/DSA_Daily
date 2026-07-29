@@ -6,22 +6,29 @@
 
 | Total Problems | Topics |
 |---|---|
-| 11 | 8 |
+| 12 | 9 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
+- [*special](#special) (1)
 - [Uncategorized](#uncategorized) (1)
 - [brute force](#brute-force) (3)
 - [dp](#dp) (1)
 - [games](#games) (2)
 - [greedy](#greedy) (5)
-- [implementation](#implementation) (3)
+- [implementation](#implementation) (4)
 - [math](#math) (4)
 - [strings](#strings) (3)
 
 ---
+
+### *special
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/agnavya21/DSA_Daily/blob/HEAD/158/A%20-%20Next%20Round/solution.cpp) |
 
 ### Uncategorized
 
@@ -64,6 +71,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/agnavya21/DSA_Daily/blob/HEAD/158/A%20-%20Next%20Round/solution.cpp) |
 | 281A | [Word Capitalization](https://codeforces.com/contest/281/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/agnavya21/DSA_Daily/blob/HEAD/281/A%20-%20Word%20Capitalization/solution.cpp) |
 | 282A | [Bit++](https://codeforces.com/contest/282/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/agnavya21/DSA_Daily/blob/HEAD/282/A%20-%20Bit%2B%2B/solution.cpp) |
 | 2218A | [The 67th Integer Problem](https://codeforces.com/contest/2218/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/agnavya21/DSA_Daily/blob/HEAD/2218/A%20-%20The%2067th%20Integer%20Problem/solution.cpp) |
