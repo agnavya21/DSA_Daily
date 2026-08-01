@@ -6,14 +6,14 @@
 
 | Total Problems | Topics |
 |---|---|
-| 15 | 9 |
+| 16 | 9 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [*special](#special) (1)
-- [Uncategorized](#uncategorized) (1)
+- [Uncategorized](#uncategorized) (2)
 - [brute force](#brute-force) (4)
 - [dp](#dp) (1)
 - [games](#games) (2)
@@ -34,6 +34,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 2248A | [You Delete, I Delete](https://codeforces.com/contest/2248/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/agnavya21/DSA_Daily/blob/HEAD/2248/A%20-%20You%20Delete%2C%20I%20Delete/solution.cpp) |
 | 2250A | [Threshold Movement](https://codeforces.com/contest/2250/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/agnavya21/DSA_Daily/blob/HEAD/2250/A%20-%20Threshold%20Movement/solution.cpp) |
 
 ### brute force
