@@ -102,3 +102,23 @@
 | 2244A | [Iskander and Drawings](https://codeforces.com/contest/2244/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/agnavya21/DSA_Daily/blob/HEAD/2244/A%20-%20Iskander%20and%20Drawings/solution.cpp) |
 
 ---
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0802-find-eventual-safe-states](https://github.com/agnavya21/DSA_Daily/tree/main/0802-find-eventual-safe-states/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0802-find-eventual-safe-states](https://github.com/agnavya21/DSA_Daily/tree/main/0802-find-eventual-safe-states/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0802-find-eventual-safe-states](https://github.com/agnavya21/DSA_Daily/tree/main/0802-find-eventual-safe-states/) | Medium |
+## Topological Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0802-find-eventual-safe-states](https://github.com/agnavya21/DSA_Daily/tree/main/0802-find-eventual-safe-states/) | Medium |
+<!---LeetCode Topics End-->
