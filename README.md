@@ -121,4 +121,20 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0802-find-eventual-safe-states](https://github.com/agnavya21/DSA_Daily/tree/main/0802-find-eventual-safe-states/) | Medium |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/agnavya21/DSA_Daily/tree/main/0877-stone-game/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/agnavya21/DSA_Daily/tree/main/0877-stone-game/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/agnavya21/DSA_Daily/tree/main/0877-stone-game/) | Medium |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/agnavya21/DSA_Daily/tree/main/0877-stone-game/) | Medium |
 <!---LeetCode Topics End-->
