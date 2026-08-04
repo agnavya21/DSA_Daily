@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 20 | 9 |
+| 21 | 9 |
 
 ---
 
@@ -18,9 +18,9 @@
 - [dp](#dp) (1)
 - [games](#games) (2)
 - [greedy](#greedy) (5)
-- [implementation](#implementation) (10)
+- [implementation](#implementation) (11)
 - [math](#math) (6)
-- [strings](#strings) (6)
+- [strings](#strings) (7)
 
 ---
 
@@ -74,6 +74,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 59A | [Word](https://codeforces.com/contest/59/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/agnavya21/DSA_Daily/blob/HEAD/59/A%20-%20Word/solution.cpp) |
 | 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/agnavya21/DSA_Daily/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.cpp) |
 | 118A | [String Task](https://codeforces.com/contest/118/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/agnavya21/DSA_Daily/blob/HEAD/118/A%20-%20String%20Task/solution.cpp) |
 | 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/agnavya21/DSA_Daily/blob/HEAD/158/A%20-%20Next%20Round/solution.cpp) |
@@ -100,6 +101,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 59A | [Word](https://codeforces.com/contest/59/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/agnavya21/DSA_Daily/blob/HEAD/59/A%20-%20Word/solution.cpp) |
 | 71A | [Way Too Long Words](https://codeforces.com/contest/71/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/agnavya21/DSA_Daily/blob/HEAD/71/A%20-%20Way%20Too%20Long%20Words/solution.cpp) |
 | 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/agnavya21/DSA_Daily/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.cpp) |
 | 118A | [String Task](https://codeforces.com/contest/118/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/agnavya21/DSA_Daily/blob/HEAD/118/A%20-%20String%20Task/solution.cpp) |
