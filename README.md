@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 22 | 9 |
+| 23 | 9 |
 
 ---
 
@@ -18,8 +18,8 @@
 - [dp](#dp) (1)
 - [games](#games) (2)
 - [greedy](#greedy) (5)
-- [implementation](#implementation) (12)
-- [math](#math) (6)
+- [implementation](#implementation) (13)
+- [math](#math) (7)
 - [strings](#strings) (7)
 
 ---
@@ -75,6 +75,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 59A | [Word](https://codeforces.com/contest/59/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/agnavya21/DSA_Daily/blob/HEAD/59/A%20-%20Word/solution.cpp) |
+| 69A | [Young Physicist](https://codeforces.com/contest/69/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/agnavya21/DSA_Daily/blob/HEAD/69/A%20-%20Young%20Physicist/solution.cpp) |
 | 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/agnavya21/DSA_Daily/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.cpp) |
 | 118A | [String Task](https://codeforces.com/contest/118/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/agnavya21/DSA_Daily/blob/HEAD/118/A%20-%20String%20Task/solution.cpp) |
 | 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/agnavya21/DSA_Daily/blob/HEAD/158/A%20-%20Next%20Round/solution.cpp) |
@@ -92,6 +93,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/agnavya21/DSA_Daily/blob/HEAD/4/A%20-%20Watermelon/solution.cpp) |
+| 69A | [Young Physicist](https://codeforces.com/contest/69/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/agnavya21/DSA_Daily/blob/HEAD/69/A%20-%20Young%20Physicist/solution.cpp) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/agnavya21/DSA_Daily/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.cpp) |
 | 617A | [Elephant](https://codeforces.com/contest/617/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/agnavya21/DSA_Daily/blob/HEAD/617/A%20-%20Elephant/solution.cpp) |
 | 2218A | [The 67th Integer Problem](https://codeforces.com/contest/2218/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/agnavya21/DSA_Daily/blob/HEAD/2218/A%20-%20The%2067th%20Integer%20Problem/solution.cpp) |
