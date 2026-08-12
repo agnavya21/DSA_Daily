@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 36 | 10 |
+| 37 | 10 |
 
 ---
 
@@ -18,8 +18,8 @@
 - [dp](#dp) (1)
 - [games](#games) (2)
 - [greedy](#greedy) (7)
-- [implementation](#implementation) (24)
-- [math](#math) (9)
+- [implementation](#implementation) (25)
+- [math](#math) (10)
 - [sortings](#sortings) (2)
 - [strings](#strings) (11)
 
@@ -100,6 +100,7 @@
 | 1512A | [Spy Detected!](https://codeforces.com/contest/1512/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/agnavya21/DSA_Daily/blob/HEAD/1512/A%20-%20Spy%20Detected!/solution.cpp) |
 | 1760A | [Medium Number](https://codeforces.com/contest/1760/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/agnavya21/DSA_Daily/blob/HEAD/1760/A%20-%20Medium%20Number/solution.cpp) |
 | 1791A | [Codeforces Checking](https://codeforces.com/contest/1791/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/agnavya21/DSA_Daily/blob/HEAD/1791/A%20-%20Codeforces%20Checking/solution.cpp) |
+| 1999A | [A+B Again?](https://codeforces.com/contest/1999/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/agnavya21/DSA_Daily/blob/HEAD/1999/A%20-%20A%2BB%20Again%3F/solution.cpp) |
 | 2218A | [The 67th Integer Problem](https://codeforces.com/contest/2218/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/agnavya21/DSA_Daily/blob/HEAD/2218/A%20-%20The%2067th%20Integer%20Problem/solution.cpp) |
 | 2254A | [Riptide](https://codeforces.com/contest/2254/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/agnavya21/DSA_Daily/blob/HEAD/2254/A%20-%20Riptide/solution.cpp) |
 
@@ -113,6 +114,7 @@
 | 617A | [Elephant](https://codeforces.com/contest/617/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/agnavya21/DSA_Daily/blob/HEAD/617/A%20-%20Elephant/solution.cpp) |
 | 1409A | [Yet Another Two Integers Problem](https://codeforces.com/contest/1409/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/agnavya21/DSA_Daily/blob/HEAD/1409/A%20-%20Yet%20Another%20Two%20Integers%20Problem/solution.cpp) |
 | 1901A | [Line Trip](https://codeforces.com/contest/1901/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/agnavya21/DSA_Daily/blob/HEAD/1901/A%20-%20Line%20Trip/solution.cpp) |
+| 1999A | [A+B Again?](https://codeforces.com/contest/1999/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/agnavya21/DSA_Daily/blob/HEAD/1999/A%20-%20A%2BB%20Again%3F/solution.cpp) |
 | 2218A | [The 67th Integer Problem](https://codeforces.com/contest/2218/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/agnavya21/DSA_Daily/blob/HEAD/2218/A%20-%20The%2067th%20Integer%20Problem/solution.cpp) |
 | 2218B | [The 67th 6-7 Integer Problem](https://codeforces.com/contest/2218/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/agnavya21/DSA_Daily/blob/HEAD/2218/B%20-%20The%2067th%206-7%20Integer%20Problem/solution.cpp) |
 | 2225A | [A Number Between Two Others](https://codeforces.com/contest/2225/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/agnavya21/DSA_Daily/blob/HEAD/2225/A%20-%20A%20Number%20Between%20Two%20Others/solution.cpp) |
