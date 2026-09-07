@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 57 | 11 |
+| 58 | 11 |
 
 ---
 
@@ -18,11 +18,11 @@
 - [dp](#dp) (3)
 - [games](#games) (3)
 - [greedy](#greedy) (10)
-- [implementation](#implementation) (42)
+- [implementation](#implementation) (43)
 - [math](#math) (13)
 - [number theory](#number-theory) (1)
 - [sortings](#sortings) (3)
-- [strings](#strings) (17)
+- [strings](#strings) (18)
 
 ---
 
@@ -127,6 +127,7 @@
 | 1791A | [Codeforces Checking](https://codeforces.com/contest/1791/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/agnavya21/DSA_Daily/blob/HEAD/1791/A%20-%20Codeforces%20Checking/solution.cpp) |
 | 1807A | [Plus or Minus](https://codeforces.com/contest/1807/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/agnavya21/DSA_Daily/blob/HEAD/1807/A%20-%20Plus%20or%20Minus/solution.cpp) |
 | 1829A | [Love Story](https://codeforces.com/contest/1829/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/agnavya21/DSA_Daily/blob/HEAD/1829/A%20-%20Love%20Story/solution.cpp) |
+| 1985A | [Creating Words](https://codeforces.com/contest/1985/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/agnavya21/DSA_Daily/blob/HEAD/1985/A%20-%20Creating%20Words/solution.cpp) |
 | 1999A | [A+B Again?](https://codeforces.com/contest/1999/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/agnavya21/DSA_Daily/blob/HEAD/1999/A%20-%20A%2BB%20Again%3F/solution.cpp) |
 | 2218A | [The 67th Integer Problem](https://codeforces.com/contest/2218/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/agnavya21/DSA_Daily/blob/HEAD/2218/A%20-%20The%2067th%20Integer%20Problem/solution.cpp) |
 | 2254A | [Riptide](https://codeforces.com/contest/2254/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/agnavya21/DSA_Daily/blob/HEAD/2254/A%20-%20Riptide/solution.cpp) |
@@ -183,6 +184,7 @@
 | 1703A | [YES or YES?](https://codeforces.com/contest/1703/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/agnavya21/DSA_Daily/blob/HEAD/1703/A%20-%20YES%20or%20YES%3F/solution.cpp) |
 | 1791A | [Codeforces Checking](https://codeforces.com/contest/1791/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/agnavya21/DSA_Daily/blob/HEAD/1791/A%20-%20Codeforces%20Checking/solution.cpp) |
 | 1829A | [Love Story](https://codeforces.com/contest/1829/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/agnavya21/DSA_Daily/blob/HEAD/1829/A%20-%20Love%20Story/solution.cpp) |
+| 1985A | [Creating Words](https://codeforces.com/contest/1985/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/agnavya21/DSA_Daily/blob/HEAD/1985/A%20-%20Creating%20Words/solution.cpp) |
 | 2244A | [Iskander and Drawings](https://codeforces.com/contest/2244/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/agnavya21/DSA_Daily/blob/HEAD/2244/A%20-%20Iskander%20and%20Drawings/solution.cpp) |
 
 ---
